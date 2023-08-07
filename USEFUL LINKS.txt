@@ -1,0 +1,36 @@
+----------XBEE PYTHON LIB DOC--------------------------------
+
+https://xbplib.readthedocs.io/en/latest/getting_started_with_xbee_python_library.html#gsgconfigzbdevices 
+
+https://dzone.com/articles/xbee-zigbee-complaint
+
+------------------------------------------------------------
+
+
+
+
+---------MONOPOLE(WIRE ANTENNA)---------
+
+https://www.antenna-theory.com/antennas/monopole.php
+
+-----------------------------------------
+
+
+
+remote = RemoteXBeeDevice(xbee, XBee64BitAddress.from_hex_string("0013A20012345678"))
+
+
+
+remote = RemoteXBeeDevice(xbee, XBee64BitAddress.from_hex_string("0013A20040B58D1F"))
+xbee.send_data(remote, "Hello XBee!")
+
+
+https://python-xbee.readthedocs.io/en/latest/
+
+
+----------------------------------------------
+for teensy multithreading use 
+teensythread lib
+
+
+thread.yield();

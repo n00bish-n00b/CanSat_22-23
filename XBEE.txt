@@ -1,0 +1,19 @@
+-------------originsl------------------
+
+
+
+P0 MAc0013A200 41F4267C (GCS)	      s2c coordinator
+P1 MAc0013A200 40A73A10 (Probe)	s2b router
+
+
+
+
+
+-----------replacement-----------------
+
+
+
+
+P2 MAc:0013A200 40E43836 (Probe)	S2b Router
+P3 MAc:0013A200 40AD19CA (Probe)	s2b router
+P4 MAc:0013A200 40B58D1F (Probe)	s2b router

@@ -1,0 +1,17 @@
+gsm module + mcu - post data and video feed on internet
+
+
+
+rd945 FPV 5.8 ghz reciever
+
+ts835 cam transmitter
+
+
+----------trans and rcieve----------------
+
+https://www.amazon.in/Roinco-433MHz-SX1278-Wireless-Module/dp/B07NWP21JD/ref=sr_1_1?crid=1LWMM3T90ENZS&keywords=lora+module+1km+range&qid=1685479194&sprefix=lora+module+1km+range%2Caps%2C203&sr=8-1   
+
+
+
+
+
